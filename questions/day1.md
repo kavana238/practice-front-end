@@ -57,29 +57,3 @@ answer here
 ```
 answer here
 ```
-
-# Task 3: What is a Domain Name?
-
-### What is the main purpose of a domain name?
-
-**Importance:** Domain names provide human-readable addresses for websites, making the internet much easier to navigate than using numerical IP addresses. Understanding their purpose clarifies their fundamental role in web accessibility.
-
-```
-answer here
-```
-
-### What are the different parts of a typical domain name (e.g., www.google.com)?
-
-**Importance:** Knowing the structure (subdomain like www, domain like google, Top-Level Domain like .com) helps in understanding how web addresses are organized and hierarchical.
-
-```
-answer here
-```
-
-### How does the Domain Name System (DNS) translate a domain name into an IP address?
-
-**Importance:** DNS acts as the internet's phonebook. Understanding its role explains the crucial step that connects the easy-to-remember domain name you type into your browser to the server's actual IP address.
-
-```
-answer here
-```
